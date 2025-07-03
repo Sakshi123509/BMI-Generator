@@ -5,11 +5,10 @@ A responsive and interactive Body Mass Index (BMI) calculator built using **HTML
 
 ## 🔗 Live Demo
 
-🌐 [Click here to use the BMI Generator](https://your-username.github.io/your-bmi-generator/)  
-<!-- Replace the link above with your actual GitHub Pages link -->
+🌐 [Click here to use the BMI Generator](https://sakshi123509.github.io/BMI-Generator/)
 
-![BMI Generator Preview]()  
-<!-- Upload your actual preview image and update the name accordingly -->
+![BMI Generator Preview](Screenshot%202025-07-03%20102506.png)
+
 
 ## 🧮 What is BMI?
 
